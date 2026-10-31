@@ -7,3 +7,13 @@
   <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=white" height="26"/>
   <img src="https://img.shields.io/badge/Luau-1a1a1a?style=flat&logo=roblox&logoColor=white" height="26"/>
 </p>
+
+<p align="center">
+  <sub>i make ui libraries and web interfaces.</sub>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/bung3Sa8Az">
+    <img src="https://img.shields.io/discord/1365632860756901909?label=Discord&logo=discord&logoColor=white&color=1a1a1a&labelColor=1a1a1a&style=flat" height="26"/>
+  </a>
+</p>
