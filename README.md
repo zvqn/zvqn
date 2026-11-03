@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Prisma-1a1a1a?style=flat&logo=prisma&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Supabase-1a1a1a?style=flat&logo=supabase&logoColor=white" height="22"/>
+</p>
+
+<p align="center">
   <sub>i make ui libraries and web interfaces.</sub>
 </p>
 
