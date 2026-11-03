@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <sub>i make ui libraries and web interfaces.</sub>
+  <sub>𝙸 𝚖𝚊𝚔𝚎 𝚞𝚒 𝚕𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝚠𝚎𝚋 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜.</sub>
 </p>
 
 <p align="center">
